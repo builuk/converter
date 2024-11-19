@@ -1,6 +1,6 @@
 
 def inches_to_centimeters(inches):
-    return inches * 2.54
+    return inches * 12.54
 
 def feet_to_meters(feet):
     return feet * 0.3048
